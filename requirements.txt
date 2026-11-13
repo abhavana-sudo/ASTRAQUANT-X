@@ -1,7 +1,6 @@
 streamlit
-yfinance
 pandas
-numpy>=2.0,<3.0
+numpy
 scikit-learn
 plotly
-pyarrow
+yfinance
